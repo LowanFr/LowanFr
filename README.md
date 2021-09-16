@@ -16,7 +16,7 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
 
  - Twitter - [@LowanFr](https://twitter.com/LowanFr/)
  - Instagram - [@LowanFr](https://instagram.com/LowanFr)
- - Discord -  [Lowan#0001](https://discord.bio/p/Lowan)
+ - Discord -  [Lowan#0001](https://discord.bio/p/ungameur)
  
 ## 📡 - Contact me
  - Contact me by e-mail with [lowan@unosial.com](lowan@unosial.com).
