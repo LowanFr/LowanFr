@@ -14,9 +14,9 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
 
 ## 🛰️ - Find me
 
- - Twitter - [@UnGameur_FR](https://twitter.com/UnGameur_FR/)
- - Instagram - [@UnGameur_FR](https://instagram.com/UnGameur_FR)
- - Discord -  [UnGameur#0001](https://discord.bio/p/UnGameur)
+ - Twitter - [@LowanFr](https://twitter.com/LowanFr/)
+ - Instagram - [@LowanFr](https://instagram.com/LowanFr)
+ - Discord -  [Lowan#0001](https://discord.bio/p/Lowan)
  
 ## 📡 - Contact me
- - Contact me by e-mail with [ungameur@unosial.com](ungameur@unosial.com).
+ - Contact me by e-mail with [lowan@unosial.com](lowan@unosial.com).
