@@ -10,13 +10,16 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
 
 ## 💻 - Language and Tools
 - **JavaScript** / **NodeJS**
-- **SQL** | PostgreSQL, MySQL, MariaDB
+- **SQL** | Sequelize | PostgreSQL, MySQL, MariaDB
+- **HTML** / **CSS**
+- **C**
+- **Python**
 
 ## 🛰️ - Find me
 
  - Twitter - [@LowanFr](https://twitter.com/LowanFr/)
  - Instagram - [@LowanFr](https://instagram.com/LowanFr)
- - Discord -  [Lowan#0001](https://discord.bio/p/ungameur)
+ - Discord -  [Lowan#0001](https://unosial.bio/Lowan)
  
 ## 📡 - Contact me
  - Contact me by e-mail with [lowan@unosial.com](lowan@unosial.com).
