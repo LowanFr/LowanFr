@@ -26,4 +26,20 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
 
 ## 📊 My statistic
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               15 repos            ███████████████░░░░░░░░░░   62.5% 
+C                        4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+CMake                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+
+```
+
+
+
+ Last Updated on 02/10/2022 17:59:10 UTC
 <!--END_SECTION:waka-->
