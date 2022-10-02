@@ -19,7 +19,3 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
-          COMMIT_BY_ME: "True",
-          COMMIT_MESSAGE: "👽️ Updating with the new statistics"
-          COMMIT_USERNAME: "LowanFr",
-          COMMIT_EMAIL: "lowan@unosial.com"
