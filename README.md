@@ -28,6 +28,18 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+**🐱 My GitHub Data** 
+
+> 🏆 2,471 Contributions in the Year 2022
+ > 
+> 📦 10.8 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 3 Public Repositories 
+ > 
+> 🔑 19 Private Repositories  
+ > 
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -41,5 +53,4 @@ CMake                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2022 20:22:09 UTC
 <!--END_SECTION:waka-->
