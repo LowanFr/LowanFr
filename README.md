@@ -22,4 +22,8 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
  - Discord -  [Lowan#0001](https://unosial.bio/Lowan)
  
 ## 📡 - Contact me
- - Contact me by e-mail with [lowan@unosial.com](lowan@unosial.com).
+ - Contact me by e-mail with [lowan@unosial.com](mailto:lowan@unosial.com).
+
+## 📊 My statistic
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
