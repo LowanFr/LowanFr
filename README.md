@@ -26,11 +26,11 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
 
 ## 📊 My statistic
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-241%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2011%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,989 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 11.5 kB Used in GitHub's Storage 
  > 
