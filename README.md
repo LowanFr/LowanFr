@@ -30,7 +30,7 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
 
 **🐱 My GitHub Data** 
 
-> 📦 11.5 kB Used in GitHub's Storage 
+> 📦 11.6 kB Used in GitHub's Storage 
  > 
 > 🏆 4 Contributions in the Year 2023
  > 
