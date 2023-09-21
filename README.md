@@ -26,7 +26,7 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
 
 ## 📊 My statistic
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-553%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2046%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -67,13 +67,18 @@ Sunday                   4 commits           ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     5 hrs 15 mins       ███████████████████░░░░░░   77.46 % 
+XML                      57 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+JavaScript               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+ActionScript             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           6 hrs 14 mins       ███████████████████████░░   91.86 % 
+WebStorm                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      6 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
