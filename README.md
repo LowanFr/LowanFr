@@ -26,7 +26,7 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
 
 ## 📊 My statistic
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-665%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-666%20hrs%2030%20mins-blue)
 
 **🐱 My GitHub Data** 
 
