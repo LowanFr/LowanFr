@@ -32,6 +32,8 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
 
 > 📦 15.3 kB Used in GitHub's Storage 
  > 
+> 🏆 169 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
