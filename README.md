@@ -32,8 +32,6 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
 
 > 📦 15.3 kB Used in GitHub's Storage 
  > 
-> 🏆 169 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -67,17 +65,13 @@ Sunday                   127 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     55 mins             ████████████████████████░   96.45 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      57 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
