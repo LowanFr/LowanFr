@@ -26,13 +26,9 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
 
 ## 📊 My statistic
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-887%20hrs%2037%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 15.3 kB Used in GitHub's Storage 
- > 
-> 🏆 169 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,42 +36,6 @@ In the next few months, I plan to learn [Java](https://www.java.com/) as well as
  > 
 > 🔑 32 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                417 commits         █████████░░░░░░░░░░░░░░░░   34.95 % 
-🌆 Daytime                567 commits         ████████████░░░░░░░░░░░░░   47.53 % 
-🌃 Evening                207 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Tuesday                  54 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Wednesday                173 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-Thursday                 480 commits         ██████████░░░░░░░░░░░░░░░   40.23 % 
-Friday                   110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Saturday                 128 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Sunday                   127 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
