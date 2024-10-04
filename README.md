@@ -3,26 +3,24 @@ First of all, my name is Esteban, and I'm a French student whose goal is to beco
 I'm passionate about cybersecurity, and I'm very interested in everything related to the space and computer security.
 Also, I co-founded [Unosial](https://github.com/Unosial) with my old friend, [Franklin](https://github.com/AbaFranklin/), a group that aims to create tools for different platforms to simplify tasks. 
 
-In the next few months, I plan to learn [Java](https://www.java.com/) as well as everything else needed for web development.
-
-
 
 
 ## 💻 - Language and Tools
 - **JavaScript** / **NodeJS**
 - **SQL** | Sequelize | PostgreSQL, MySQL, MariaDB
 - **HTML** / **CSS**
-- **C**
+- **C** / **CMake**
 - **Python**
+- **Java**
 
 ## 🛰️ - Find me
 
  - Twitter - [@LowanFr](https://twitter.com/LowanFr/)
  - Instagram - [@LowanFr](https://instagram.com/LowanFr)
- - Discord -  [Lowan#0001](https://unosial.bio/Lowan)
+ - Discord -  .lowan
  
 ## 📡 - Contact me
- - Contact me by e-mail with [lowan@unosial.com](mailto:lowan@unosial.com).
+ - Contact me by e-mail with [contac@lowan.fr](mailto:contact@lowan.fr).
 
 ## 📊 My statistic
 <!--START_SECTION:waka-->
