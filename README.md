@@ -24,7 +24,7 @@ Also, I co-founded [Unosial](https://github.com/Unosial) with my old friend, [Fr
 
 ## 📊 My statistic
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C109%20hrs%2035%20mins-blue)
 
 **🐱 My GitHub Data** 
 
