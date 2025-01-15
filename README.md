@@ -65,13 +65,14 @@ Sunday                   364 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   2 hrs 2 mins        █████████████████████████   99.44 % 
+TeX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  2 hrs 2 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
