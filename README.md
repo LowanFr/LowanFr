@@ -24,6 +24,8 @@ Also, I co-founded [Unosial](https://github.com/Unosial) with my old friend, [Fr
 
 ## 📊 My statistic
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C308%20hrs%2030%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 236.1 kB Used in GitHub's Storage 
@@ -36,6 +38,42 @@ Also, I co-founded [Unosial](https://github.com/Unosial) with my old friend, [Fr
  > 
 > 🔑 39 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                433 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+🌆 Daytime                709 commits         █████████░░░░░░░░░░░░░░░░   34.14 % 
+🌃 Evening                907 commits         ███████████░░░░░░░░░░░░░░   43.67 % 
+🌙 Night                  28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   317 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Tuesday                  428 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Wednesday                297 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Thursday                 401 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Friday                   215 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Saturday                 170 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Sunday                   249 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
