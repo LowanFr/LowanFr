@@ -30,7 +30,7 @@ Also, I co-founded [Unosial](https://github.com/Unosial) with my old friend, [Fr
 
 > 📦 236.1 kB Used in GitHub's Storage 
  > 
-> 🏆 129 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
