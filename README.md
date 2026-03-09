@@ -41,21 +41,21 @@ Also, I co-founded [Unosial](https://github.com/Unosial) with my old friend, [Fr
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                99 commits          ███████░░░░░░░░░░░░░░░░░░   29.91 % 
-🌆 Daytime                115 commits         █████████░░░░░░░░░░░░░░░░   34.74 % 
-🌃 Evening                106 commits         ████████░░░░░░░░░░░░░░░░░   32.02 % 
-🌙 Night                  11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+🌞 Morning                101 commits         ████████░░░░░░░░░░░░░░░░░   30.06 % 
+🌆 Daytime                118 commits         █████████░░░░░░░░░░░░░░░░   35.12 % 
+🌃 Evening                106 commits         ████████░░░░░░░░░░░░░░░░░   31.55 % 
+🌙 Night                  11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-Wednesday                60 commits          █████░░░░░░░░░░░░░░░░░░░░   18.13 % 
-Thursday                 65 commits          █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Friday                   59 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Sunday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                62 commits          █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Thursday                 65 commits          █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Friday                   62 commits          █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
+Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Sunday                   26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
 ```
 
 
