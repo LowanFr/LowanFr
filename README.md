@@ -28,7 +28,7 @@ Also, I co-founded [Unosial](https://github.com/Unosial) with my old friend, [Fr
 
 **🐱 My GitHub Data** 
 
-> 📦 236.6 kB Used in GitHub's Storage 
+> 📦 236.8 kB Used in GitHub's Storage 
  > 
 > 🏆 16 Contributions in the Year 2026
  > 
