@@ -38,6 +38,42 @@ Also, I co-founded [Unosial](https://github.com/Unosial) with my old friend, [Fr
  > 
 > 🔑 42 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                101 commits         ███████░░░░░░░░░░░░░░░░░░   28.86 % 
+🌆 Daytime                119 commits         ████████░░░░░░░░░░░░░░░░░   34.00 % 
+🌃 Evening                119 commits         ████████░░░░░░░░░░░░░░░░░   34.00 % 
+🌙 Night                  11 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Tuesday                  42 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Wednesday                63 commits          ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Thursday                 71 commits          █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+Friday                   63 commits          ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Saturday                 38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Sunday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
